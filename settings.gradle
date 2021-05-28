@@ -1,0 +1,3 @@
+include ':recyclervew-kotlin'
+include ':app'
+rootProject.name = "RecyclerViewExample"
